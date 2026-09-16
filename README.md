@@ -1,9 +1,9 @@
 # cp1Nemec – O mago mais habilidoso de Harry Potter
 
-- `checkpoint_magos.ipynb` – notebook (Google Colab) com os cálculos: teste t pareado unilateral, α = 0,10
+- `checkpoint_magos.ipynb` – notebook (Google Colab) com os cálculos: Shapiro, Friedman, pós-hoc Wilcoxon + Bonferroni, teste t pareado no desempate (α = 0,10)
 - `explicacao_experimento.pdf` – texto explicativo do experimento
 - `checkpoint_magos_dados.csv` / `checkpoint_magos_dataset.xlsx` – dados
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Guiroselli/cp1Nemec/blob/main/checkpoint_magos.ipynb)
 
-**Resultado:** Albus Dumbledore.
+**Resultado:** Severus Snape (empatou com Dumbledore no índice e venceu no desempate por tempo).
